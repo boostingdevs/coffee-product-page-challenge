@@ -1,10 +1,12 @@
-# Boosting Devs | Coffee Shop Product PAGE
+# Boosting Devs | Coffee Product Page
 
-Bem-vindo ao desafio tech da nossa plataforma! Neste desafio, você terá a oportunidade de demonstrar suas habilidades recriando uma página de produto para um e-commerce de café. Siga as instruções abaixo para completar o desafio.
+Bem-vindo ao desafio técnico da nossa plataforma! Neste desafio, você terá a oportunidade de demonstrar suas habilidades recriando uma página de produto para um e-commerce de café. 
+Siga as instruções abaixo para completar o desafio.
 
 ## Objetivo
 
-O objetivo deste desafio é construir uma página de produto para um e-commerce de café que seja visualmente atraente, funcional e responsiva. A página deve incluir informações detalhadas sobre o produto, imagens, preços, e um botão de compra.
+O objetivo deste desafio é construir uma página de produto para um e-commerce de café que seja visualmente atraente, funcional e responsiva. 
+A página deve incluir informações detalhadas sobre o produto, imagens, preços, e um botão de compra.
 
 ## Requisitos
 
@@ -36,35 +38,23 @@ Você pode usar qualquer tecnologia front-end para completar este desafio, mas r
 - **JavaScript** ou **TypeScript** para interatividade
 - **Frameworks/Libraries** (opcional): React, Vue.js, Angular, etc.
 
-## Critérios de Avaliação
-
-Seu projeto será avaliado com base nos seguintes critérios:
-- **Precisão**: A página se assemelha ao design fornecido?
-- **Funcionalidade**: Todas as funcionalidades requeridas estão presentes e funcionam corretamente?
-- **Responsividade**: A página funciona bem em diferentes dispositivos e tamanhos de tela?
-- **Código**: O código está bem organizado, comentado e segue boas práticas?
-
 ## Instruções
 
 1. Faça um fork deste repositório para sua conta no GitHub.
 2. Crie uma nova branch com o nome `desafio-seu-nome`.
-3. Implemente a página de produto conforme descrito nos requisitos.
-4. Ao finalizar, envie um pull request para o repositório original.
-5. Certifique-se de que seu código está bem documentado e de incluir instruções sobre como rodar o projeto localmente.
-
-## Entrega
-
-A data limite para a submissão do desafio é **[data]**. Por favor, certifique-se de enviar seu pull request antes do prazo.
+3. Implemente o desafio conforme descrito nos requisitos.
+4. Ao finalizar, compartilhe seu projeto conosco!
 
 ## Recursos Adicionais
 
-- [Exemplo de Design](link-para-o-design-exemplo)
+- [Design](https://www.figma.com/design/ug8w0WM1EW5NnjBPDhNAqM/Coffee-Product-Page?m=auto&t=bZPHXuTHap1Fj0jQ-6)
+
 - [Documentação do React](https://reactjs.org/docs/getting-started.html)
 - [Documentação do Vue.js](https://vuejs.org/v2/guide/)
 - [Documentação do Angular](https://angular.io/docs)
 
 ## Dúvidas
 
-Se você tiver qualquer dúvida, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato conosco pelo e-mail [email@example.com](mailto:email@example.com).
+Se você tiver qualquer dúvida, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato conosco pelo e-mail [isaque@boostingdevs.com](isaque@boostingdevs.com).
 
 Boa sorte e bom código!
